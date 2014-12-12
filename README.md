@@ -8,7 +8,8 @@ testing.
 
 ---
 
-### **PART 1** NginX Configuration
+### PART 1 
+#### NginX Configuration
 
 NginX Configuration from [RandomErrata](http://www.randomerrata.com/articles/2013/nginx-heart-middleman/):
 
